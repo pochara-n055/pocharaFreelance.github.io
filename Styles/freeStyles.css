@@ -1,0 +1,101 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	/*background-image:url("../Images/Logo.png"); Disabled, was just used to test fuctions*/
+	
+}
+
+#Wrapper{
+    height: 1300px;
+    width: 950px;
+    border-color: darkblue;
+    border-width: 5px;
+    border-style: solid;
+    background-color: white;	
+}
+
+#Banner{
+	
+	width:940px;
+	height:200px;
+	padding:5px;
+	background-color:aliceblue;
+	
+}
+
+#GlobalNav{
+	
+	width:940px;
+	height:150px;
+	padding-top:30px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	background-color:aliceblue;
+	
+}
+
+#MainContainer{
+	
+	width:940px;
+	height:750px;
+	padding:5px;
+	
+}
+
+#Footer{
+	
+	width:940px;
+	height:200px;
+	padding:5px;
+	
+}
+
+img{
+	
+	float:left;
+	
+}
+
+h1{
+    
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-size: 48px;
+    color: #017C6B;
+    font-style: normal;
+    font-weight: 700;
+	
+}
+#Title{
+	
+	margin-top:40px;
+		
+}
+
+td{
+    padding: 1px;
+    text-align: center;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+	color:darkblue;
+	
+}
+
+#NavigationHover:hover{
+	
+	font-size:35px;
+	color:#FF0000;
+	text-decoration:underline;
+	
+}
+
+#NavigationHover{
+	
+	text-decoration:inherit;
+	color:inherit;
+	
+}
