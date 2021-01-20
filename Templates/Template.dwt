@@ -23,7 +23,7 @@
 <div id="Banner">
 	
 	<a href="../doodoo.txt"><img width="225" height="225" alt="Logo" src="../Images/Logo Transparent.png"></a>
-	<a href="../doodoo.txt"><img src="../Images/Title.png" alt="Title" width="630" height="84" id="Title"></a>
+	<a href="../doodoo.txt"><img src="../Images/Title.png" alt="Title" id="Title"></a>
 
 </div>
 	
