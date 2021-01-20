@@ -42,6 +42,7 @@ body{
 	width:940px;
 	height:750px;
 	padding:5px;
+	background-color:aliceblue;
 	
 }
 
@@ -85,7 +86,7 @@ td{
 	
 }
 
-#NavigationHover:hover{
+.NavigationHover:hover{
 	
 	font-size:35px;
 	color:#FF0000;
@@ -93,7 +94,7 @@ td{
 	
 }
 
-#NavigationHover{
+.NavigationHover{
 	
 	text-decoration:inherit;
 	color:inherit;
