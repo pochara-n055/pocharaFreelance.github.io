@@ -4,7 +4,7 @@
 
 <meta charset="utf-8">
 <!-- TemplateBeginEditable name="doctitle" -->
-<title>Untitled Document</title>
+<title>W2B - Home</title>
 <!-- TemplateEndEditable -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
@@ -14,8 +14,6 @@
 </head>
 
 <body>
-	
-<!-- TemplateBeginEditable name="Content" -->
 	
 <center>
 	
@@ -51,7 +49,12 @@
 	
 </div>
 	
-<div id="MainContainer">Content for id "Tupperware" Goes Here
+<div id="MainContainer">
+<!-- TemplateBeginEditable name="Content" -->
+	
+	Content for id "Tupperware" Goes Here
+	
+<!-- TemplateEndEditable -->
 	
 </div>
 	
@@ -62,8 +65,6 @@
 </div>
 	
 </center>
-	
-<!-- TemplateEndEditable -->
 
 </body>
 	
