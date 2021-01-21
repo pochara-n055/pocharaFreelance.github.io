@@ -19,7 +19,7 @@ body{
 #Banner{
 	
 	width:940px;
-	height:200px;
+	height:250px;
 	padding:5px;
 	background-color:aliceblue;
 	
@@ -28,12 +28,12 @@ body{
 #GlobalNav{
 	
 	width:940px;
-	height:150px;
+	height:80px;
 	padding-top:30px;
 	padding-bottom:5px;
 	padding-left:5px;
 	padding-right:5px;
-	background-color:aliceblue;
+	background-color:yellow;
 	
 }
 
@@ -54,6 +54,7 @@ body{
 	height:740px;
 	padding-top:5px;
 	padding-bottom:5px;
+	background-color:#e3fffd;
 	
 }
 
