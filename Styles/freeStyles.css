@@ -39,7 +39,7 @@ body{
 
 #MainContainer{
 	
-	width:690px;
+	width:620px;
 	height:650px;
 	padding:5px;
 	background-color:#ccffff;
@@ -51,7 +51,19 @@ body{
 
 	float:left;
 	padding-left:5px;
-	width:245px;
+	width:155px;
+	height:650px;
+	padding-top:5px;
+	padding-bottom:5px;
+	background-color:#66ccff;
+	
+}
+
+#SideNav2{
+
+	float:right;
+	padding-right:5px;
+	width:155px;
 	height:650px;
 	padding-top:5px;
 	padding-bottom:5px;
@@ -72,12 +84,6 @@ body{
 	height:300px;
 	padding:5px;
 	background-color:#ccff99;
-	
-}
-
-img{
-	
-	float:left;
 	
 }
 
@@ -119,5 +125,20 @@ td{
 	
 	text-decoration:inherit;
 	color:inherit;
+	
+}
+
+.floatLeft{
+	
+	float:left;
+	
+}
+
+#Slogan{
+	
+	font-style:italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:darkgreen;
+	font-size:24px;
 	
 }
