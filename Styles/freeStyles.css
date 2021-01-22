@@ -102,6 +102,15 @@ h1{
 		
 }
 
+#Slogan{
+	
+	font-style:italic;
+	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color:darkgreen;
+	font-size:24px;
+	
+}
+
 td{
     padding: 1px;
     text-align: center;
@@ -131,14 +140,5 @@ td{
 .floatLeft{
 	
 	float:left;
-	
-}
-
-#Slogan{
-	
-	font-style:italic;
-	font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
-	color:darkgreen;
-	font-size:24px;
 	
 }
