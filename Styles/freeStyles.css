@@ -21,7 +21,7 @@ body{
 	width:940px;
 	height:250px;
 	padding:5px;
-	background-color:aliceblue;
+	background-color:#ccffff;
 	
 }
 
@@ -42,7 +42,7 @@ body{
 	width:640px;
 	height:650px;
 	padding:5px;
-	background-color:aliceblue;
+	background-color:#ccffff;
 	float:left;
 	
 }
@@ -55,16 +55,16 @@ body{
 	height:650px;
 	padding-top:5px;
 	padding-bottom:5px;
-	background-color:#e3fffd;
+	background-color:#66ccff;
 	
 }
 
 #Footer{
 	
 	width:940px;
-	height:200px;
+	height:300px;
 	padding:5px;
-	background-color:#00ffcc;
+	background-color:#ccff99;
 	
 }
 
