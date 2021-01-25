@@ -3,7 +3,8 @@
 
 body{
 
-	/*background-image:url("../Images/Logo.png"); Disabled, was just used to test fuctions*/
+	background-image:url("../Images/BG.png");
+	background-size:100%;
 	
 }
 
