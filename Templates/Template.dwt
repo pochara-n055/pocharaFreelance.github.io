@@ -36,10 +36,10 @@
 	  
     <tr>
 		
-	<td><a class="NavigationHover" href="../doodoo.txt">Home</a></td>
-    <td><a class="NavigationHover" href="../doodoo.txt">Designs</a></td>
-    <td><a class="NavigationHover" href="../doodoo.txt">About Us</a></td>
-    <td><a class="NavigationHover" href="../doodoo.txt">Contact Us</a></td>
+	<td><a class="NavigationHover" href="../index.htm">Home</a></td>
+    <td><a class="NavigationHover" href="../design.htm">Designs</a></td>
+    <td><a class="NavigationHover" href="../about.htm">About Us</a></td>
+    <td><a class="NavigationHover" href="../contact.htm">Contact Us</a></td>
 		
     </tr>
 	  
