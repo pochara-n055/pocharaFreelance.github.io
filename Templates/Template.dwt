@@ -51,10 +51,10 @@
 	  
     <tr>
 		
-	<td><a class="NavigationHover" href="../index.htm">Home</a></td>
-    <td><a class="NavigationHover" href="../design.htm">Designs</a></td>
-    <td><a class="NavigationHover" href="../about.htm">About Us</a></td>
-    <td><a class="NavigationHover" href="../contact.htm">Contact Us</a></td>
+	<td class="NavTable"><a class="NavigationHover" href="../index.htm">Home</a></td>
+    <td class="NavTable"><a class="NavigationHover" href="../design.htm">Designs</a></td>
+    <td class="NavTable"><a class="NavigationHover" href="../about.htm">About Us</a></td>
+    <td class="NavTable"><a class="NavigationHover" href="../contact.htm">Contact Us</a></td>
 		
     </tr>
 	  
@@ -112,7 +112,51 @@
 	
 <div id="Footer">
 	
-Content for id "Handy" Goes Here
+<p>Navigation Below:</p>
+	
+<table width="40%" border="0">
+	
+  <tbody>
+	  
+    <tr>
+		
+	<td><a class="FootTable" href="../index.htm">Home</a></td>
+    <td><a class="FootTable" href="../design.htm">Design</a></td>
+    <td><a class="FootTable" href="../about.htm">About</a></td>
+    <td><a class="FootTable" href="../contact.htm">Contact</a></td>
+		
+    </tr>
+	  
+	</tbody>
+	
+	</table>
+	
+	<br>
+	
+	<p>Quick Contact Information:</p>
+	
+	<table align="center" border="0" width="60%">
+	
+		<tr>
+		
+		<td>			
+			
+		<p>Address: 3492 Flash Drive, Doylestown PA 47328</p>
+		<p>Phone: 1-267-WEB-TOBE(932-8613)</p>
+			<p>Questions or concerns? Email us at: <a href="mailto:pochara.n055@student.cbsd.org">pochara.n055@student.cbsd.org</a></p>
+			
+		</td>
+		
+		</tr>
+		
+	
+	</table>
+	
+	<div align="center" id="Copyright">
+	
+		Copyright &copy;2021, Website To Behold, Created by Neville Pochara. All Rights Reserved.
+	
+	</div>
 	
 </div>
 	
