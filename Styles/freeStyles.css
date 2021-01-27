@@ -179,9 +179,38 @@ p{
 	font-size:32px;
 	
 }
+.SideLink:link{
+	
+	color:inherit;
+	
+}
+.SideLink:visited{
+	
+	color:inherit;
+	
+}
 
 .SideLink:hover{
 	
 	color:red;
 	
+}
+
+.CleanLink:link{
+	
+	text-decoration:none;
+	color:inherit;
+	
+}
+
+.CleanLink:visited{
+	
+	color:inherit;
+	
+}
+
+#ToTop1{
+	
+	position:absolute;
+	bottom:-180%;
 }
