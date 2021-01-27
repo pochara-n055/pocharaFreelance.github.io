@@ -209,8 +209,18 @@ p{
 	
 }
 
-#ToTop1{
+.Persist{
 	
-	position:absolute;
-	bottom:-180%;
+	position:fixed;
+	top:50%;
+	left:10px;
+	
+}
+
+.Persist2{
+	
+	position:fixed;
+	top:50%;
+	right:10px;
+	
 }
