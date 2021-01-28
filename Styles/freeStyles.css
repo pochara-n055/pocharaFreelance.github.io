@@ -21,7 +21,10 @@ body{
 	
 	width:940px;
 	height:250px;
-	padding:5px;
+	padding-left:5px;
+	padding-right:5px;
+	padding-top:10px;
+	padding-bottom:5px;
 	background-color:#ccffff;
 	
 }
@@ -252,5 +255,51 @@ p{
 	height:25px;
 	text-align:left;
 	font-size:24px;
+	
+}
+
+.big{
+	
+	font-size:20px;
+	
+}
+
+.margin{
+	
+	margin-left:5px;
+	margin-right:5px;
+	
+}
+
+.border{
+	
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+	
+}
+
+.ShopTable{
+	
+	font-size:22px;
+	border-color:blue;
+	background-color:yellow;
+}
+
+.paddingL{
+	
+	padding-left:5px;
+	
+}
+
+.underline{
+	
+	text-decoration:underline;
+	
+}
+
+.disclaimer{
+	
+	font-size:16px;
 	
 }
